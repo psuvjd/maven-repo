@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jan 10 20:09:29 CST 2017
+openapi-sdk-1.0.5-SNAPSHOT.jar>=
+openapi-sdk-1.0.5-SNAPSHOT.pom>=
+openapi-sdk-1.0.5-SNAPSHOT-sources.jar>=
